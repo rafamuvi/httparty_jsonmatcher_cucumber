@@ -1,0 +1,10 @@
+{
+    "description": "schema GET a post",
+    "type": "object",
+    "properties": {
+        "userId": { "type": "number" },
+        "id": { "type": "number" },
+        "title": { "type": "string" },
+        "body": { "type": "string" }
+    }
+}
